@@ -1,6 +1,6 @@
 ## Hi there 👋
+![image](https://github.com/WekesaKelvin/WekesaKelvin/blob/main/header.png?raw=true)
 
-<img width="2000" height="400" alt="header" src="https://github.com/user-attachments/assets/3b17bedf-c92e-4b32-b9ff-47b33d532fcd" />
 
 
 
