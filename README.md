@@ -12,7 +12,7 @@ I'm Kelvin,a Senior Software Engineer
 
 
 
-I care about clean code, strong coffee, and never getting too comfortable with what I already know.
+I'm passionate about clean code, strong coffee, and never getting too comfortable with what I already know.
 
 🔭 Currently building a few interesting things.
 
