@@ -8,10 +8,16 @@
 
 
 Hello there, I'm Kelvin,a Senior Software Engineer
+
+
+
+
 I care about clean code, strong coffee, and never getting too comfortable with what I already know.
 
 🔭 Currently building a few interesting things.
+
 🌱 Frontend engineering |IOS| ANGULAR | GAMING
+
 🤝 Open to collaborating on web and (IOS) mobile applications
 
 
