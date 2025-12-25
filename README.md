@@ -7,7 +7,7 @@
 
 
 
-Hello there, I'm Kelvin,a Senior Software Engineer
+I'm Kelvin,a Senior Software Engineer
 
 
 
