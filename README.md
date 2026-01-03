@@ -16,7 +16,7 @@ I'm passionate about clean code, strong coffee, and never getting too comfortabl
 
 🔭 Currently building a few interesting things.
 
-🌱 Frontend engineering | iOS | ANGULAR | GAMING
+🌱 Frontend engineering | iOS | ANGULAR | KOTLIN | GAMING
 
 🤝 Open to collaborating on web and (IOS) mobile applications
 
